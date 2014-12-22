@@ -10,3 +10,7 @@ PatternRecog
 sample은 drawable-xxhdpi에서 따서 쓸 수 있습니다.
 
 패턴은 총 10개로 각각 10개씩 샘플링되었습니다.
+
+============
+
+[![Gray scale image pattern recognition android](http://img.youtube.com/vi/-jLBHyDQmj4/0.jpg)](http://www.youtube.com/watch?v=-jLBHyDQmj4)
